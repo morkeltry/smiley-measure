@@ -12,7 +12,7 @@
    version="1.1"
    width="414"
    height="414"
-   id="svg2">
+   id="unattached-svg">
   <defs
      id="defs4">
     <linearGradient
@@ -167,22 +167,25 @@
   <g
      transform="translate(0,0)">
     <path
-       style="fill:url(#linearGradient3165);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-        d="m 411,207 a 204,204 0 1 1 -409,0 204,204 0 1 1 409,0 z" />
+      style="fill:url(#linearGradient3165);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      d="m 411,207 a 204,204 0 1 1 -409,0 204,204 0 1 1 409,0 z" />
     <path
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-        d="m 177,127 a 22.5,61 0.5 1 1 -45,0 22.5,61 0.5 1 1 45, 0.5 z" />
+      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      d="m 177,127 a 22.5,61 0.5 1 1 -45,0 22.5,61 0.5 1 1 45, 0.5 z" />
     <path
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-        d="m 289,127 a 22.5,61 0.5 1 1 -45,0 22.5,61 0.5 1 1 45, 0.5 z" />
+      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      d="m 289,127 a 22.5,61 0.5 1 1 -45,0 22.5,61 0.5 1 1 45, 0.5 z" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:10.7;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 353,211 A 144,139 0 0 1 65.1,211" />
+      id = "smile"
+      style="fill:none;stroke:#000000;stroke-width:10.7;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+      d="M 353,211 A 144,139 0 0 1 65.1,211" />
     <path
-       d="m 58,222 c -0,0 -1.5,0.66 -2.75,1.5 -3,2.5 -8,2 -10,-1 -1.5,-2 -1.5,-2.75 0,-5 3.75,-5.5 18,-9 29,-7.75 8.75,1.25 11.5,4.5 8,9.5 -1,1.5 -2.5,1.75 -6.25,1.75 l -5,0 z"
-       style="fill:#000000;fill-opacity:1" />
+      id = "smile-left-end"
+      d="m 58,222 c -0,0 -1.5,0.66 -2.75,1.5 -3,2.5 -8,2 -10,-1 -1.5,-2 -1.5,-2.75 0,-5 3.75,-5.5 18,-9 29,-7.75 8.75,1.25 11.5,4.5 8,9.5 -1,1.5 -2.5,1.75 -6.25,1.75 l -5,0 z"
+      style="fill:#000000;fill-opacity:1" />
     <path
-       d="m 357,222 c 0,0 1.5,0.66 2.75,1.5 3,2.5 8,2 10,-1 1.5,-2 1.5,-2.75 0,-5 -3.75,-5.5 -18,-9 -29,-7.75 -8.75,1.25 -11.5,4.5 -8,9.5 1,1.5 2.5,1.75 6.25,1.75 l 5,0 z"
-       style="fill:#000000;fill-opacity:1" />
+      id = "smile-right-end"
+      d="m 357,222 c 0,0 1.5,0.66 2.75,1.5 3,2.5 8,2 10,-1 1.5,-2 1.5,-2.75 0,-5 -3.75,-5.5 -18,-9 -29,-7.75 -8.75,1.25 -11.5,4.5 -8,9.5 1,1.5 2.5,1.75 6.25,1.75 l 5,0 z"
+      style="fill:#000000;fill-opacity:1" />
   </g>
 </svg>
