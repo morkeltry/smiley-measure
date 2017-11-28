@@ -46,7 +46,6 @@ const newPath = (id, happiness) => {
         arcDir = `0 0 1`;
         return `M 353,${y} A 144,${arcY} ${arcDir} 65.1,${y}`
       } else {
-        arcY = 9;
         arcDir = `0 1 0`;
         if (happiness>= 30) {
           y = 311-happiness;
@@ -54,7 +53,6 @@ const newPath = (id, happiness) => {
           return `M 353,${y} A 144,${arcY} ${arcDir} 65.1,${y}`
         } else
           if (happiness>= 15) {
-            console.log('caught',happiness);
             y = 326-happiness*1.5;
             arcY = 133-happiness*2.8;
             return `M 353,${y} A 144,${arcY} ${arcDir} 65.1,${y}`
@@ -101,9 +99,6 @@ console.log('happiness:', happiness, smileLeftEnd.attr('id'), smileRightEnd.attr
       console.log(nP);
       el.attr('d', nP)
     })
-
-
-
 
 
 
