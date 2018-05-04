@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- By Mistersmileyface.png: Otakumaderivative work: 0xF8E8 (This file was derived from  Mistersmileyface.png:) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="414"
+   height="414"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3845">
+      <stop
+         style="stop-color:#fac825;stop-opacity:1;"
+         offset="0"
+         id="stop3847" />
+      <stop
+         style="stop-color:#fdf099;stop-opacity:1;"
+         offset="1"
+         id="stop3849" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3829">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3831" />
+      <stop
+         style="stop-color:#f2c224;stop-opacity:1"
+         offset="1"
+         id="stop3833" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3813">
+      <stop
+         offset="0"
+         style="stop-color:#f8d600;stop-opacity:1"
+         id="stop3815" />
+      <stop
+         id="stop3819"
+         style="stop-color:#f7e846;stop-opacity:1;"
+         offset="0.5" />
+      <stop
+         offset="1"
+         style="stop-color:#f7fb8c;stop-opacity:1"
+         id="stop3817" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3868">
+      <stop
+         id="stop3870"
+         style="stop-color:#f8d600;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3872"
+         style="stop-color:#f7fb8c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3860">
+      <stop
+         id="stop3862"
+         style="stop-color:#f8d600;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3864"
+         style="stop-color:#f7fd92;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3840">
+      <stop
+         id="stop3842"
+         style="stop-color:#fffc00;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3844"
+         style="stop-color:#fffd00;stop-opacity:0.49803922"
+         offset="0.5" />
+      <stop
+         id="stop3846"
+         style="stop-color:#ffff00;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3830">
+      <stop
+         id="stop3832"
+         style="stop-color:#fffc1a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3858"
+         style="stop-color:#fffc0d;stop-opacity:0.87450981"
+         offset="0.125" />
+      <stop
+         id="stop3848"
+         style="stop-color:#fffc00;stop-opacity:0.74901962"
+         offset="0.25" />
+      <stop
+         id="stop3838"
+         style="stop-color:#fffd00;stop-opacity:0.49803922"
+         offset="0.5" />
+      <stop
+         id="stop3834"
+         style="stop-color:#ffff00;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3820">
+      <stop
+         id="stop3822"
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3824"
+         style="stop-color:#ffff00;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="9"
+       y1="690."
+       x2="7."
+       y2="445"
+       id="linearGradient3866"
+       xlink:href="#linearGradient3860"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="312"
+       y1="739"
+       x2="316"
+       y2="391"
+       id="linearGradient3874"
+       xlink:href="#linearGradient3868"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="312"
+       y1="739"
+       x2="316"
+       y2="391"
+       id="linearGradient3966"
+       xlink:href="#linearGradient3868"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient3845"
+       id="linearGradient3851"
+       x1="201"
+       y1="296"
+       x2="198"
+       y2="85"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient3845"
+       id="linearGradient3165"
+       gradientUnits="userSpaceOnUse"
+       x1="201"
+       y1="296"
+       x2="198"
+       y2="85" />
+  </defs>
+  <g
+     transform="translate(0,0)">
+    <path
+       style="fill:url(#linearGradient3165);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+        d="m 411,207 a 204,204 0 1 1 -409,0 204,204 0 1 1 409,0 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+        d="m 177,127 a 22.5,61 0.5 1 1 -45,0 22.5,61 0.5 1 1 45, 0.5 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+        d="m 289,127 a 22.5,61 0.5 1 1 -45,0 22.5,61 0.5 1 1 45, 0.5 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10.7;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 353,211 A 144,139 0 0 1 65.1,211" />
+    <path
+       d="m 58,222 c -0,0 -1.5,0.66 -2.75,1.5 -3,2.5 -8,2 -10,-1 -1.5,-2 -1.5,-2.75 0,-5 3.75,-5.5 18,-9 29,-7.75 8.75,1.25 11.5,4.5 8,9.5 -1,1.5 -2.5,1.75 -6.25,1.75 l -5,0 z"
+       style="fill:#000000;fill-opacity:1" />
+    <path
+       d="m 357,222 c 0,0 1.5,0.66 2.75,1.5 3,2.5 8,2 10,-1 1.5,-2 1.5,-2.75 0,-5 -3.75,-5.5 -18,-9 -29,-7.75 -8.75,1.25 -11.5,4.5 -8,9.5 1,1.5 2.5,1.75 6.25,1.75 l 5,0 z"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+</svg>
